@@ -1,0 +1,7 @@
+/kafka/kafka.sbt~
+/kafka/project/target/**
+/kafka/target/**
+/simpleApp/project/target/**
+/simpleApp/target/**
+*~
+
